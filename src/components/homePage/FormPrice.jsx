@@ -27,16 +27,16 @@ const FormPrice = ({setformulario}) => {
          
          <form id='nave' className='price-oculto' onSubmit={handleSubmit(submit)}>
           <div>
-          <label htmlFor='from'>From</label>
-          <input {...register('from')}  id='from' type='text' />
+          <label className='label1' htmlFor='from'>From</label>
+          <input className='input0' {...register('from')}  id='from' type='number' />
     
           </div>
           <div>
-          <label htmlFor='to'>to</label>
-          <input {...register('to')}  id='to' type='text' />
+          <label  className='label1'  htmlFor='to'>to</label>
+          <input className='input0' {...register('to')}  id='to' type='number' />
     
           </div>
-          <button>Filter Price</button>
+          <button className='btn1'>Filter Price</button>
       
         </form> 
         

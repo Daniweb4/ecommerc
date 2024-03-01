@@ -18,7 +18,12 @@
     height: 220px;
     margin-bottom: 10px;
     background-color: #ffffff;
-  }.price-oculto input{
+  }.price-oculto .input1{
+    position: relative;
+    width: 150px;
+    padding: 5px;
+    margin-top: 20px;
+  }.price-oculto .input2{
     position: relative;
     width: 150px;
     padding: 5px;

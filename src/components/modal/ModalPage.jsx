@@ -24,12 +24,12 @@ const ModalPage = ({open, setOpen,setformulario}) => {
                      <button className='btnClose' onClick={handleOpeb}>X</button>
                 <div>
                 <label htmlFor='from'>From</label>
-                <input {...register('from')}  id='from' type='text' />
+                <input className='input1' {...register('from')}  id='from' type='text' />
           
                 </div>
                 <div>
                 <label htmlFor='to'>to</label>
-                <input {...register('to')}  id='to' type='text' />
+                <input className='input2' {...register('to')}  id='to' type='text' />
           
                 </div>
             
