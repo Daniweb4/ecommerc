@@ -1,0 +1,41 @@
+
+.header_continer{
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    background: #f85555;
+    
+    
+}.nav-bar {
+   position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    left: 35%;
+    height: 70px;
+    width: 70%;
+    background: #f85555;
+    list-style: none;
+   
+    
+}.header_continer h1{
+    
+ 
+
+    
+
+   
+}.nav-bar li a ion-icon {
+    font-size: 30px;
+    margin-top: 20px;
+    
+   
+   
+}.nav-bar {
+    
+}

@@ -1,0 +1,35 @@
+.productcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 50px;  
+    
+}.filter_container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;  
+  
+}.by_section{
+    position:absolute;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    height: 80px;
+    padding: 20px 20px;
+    top: 80px;
+    right: 10px;
+    border: 1px solid wheat;
+    
+}.container_selector{
+    display: flex;
+    text-align: center;
+  
+       
+}.by_name .name{
+    display: flex;
+    width:400px;
+    height: 40px;
+    border-radius: 10px 0px 10px 0px;
+}

@@ -1,0 +1,9 @@
+select{
+    height: 40px;
+    text-align: center;
+    border-radius: 10px 0px;
+    font-size: 16px;
+}select:hover{
+    background: #f85555;
+    transform: scale(1.1);
+}

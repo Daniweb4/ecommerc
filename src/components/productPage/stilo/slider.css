@@ -1,0 +1,13 @@
+.splide{
+    
+    width: 400px;
+}.splide__slide{
+    
+    height: 300px;
+    display: flex;
+   justify-content: center;
+   
+}.container{
+    margin-top: 70px;
+    margin-left: 20px;
+}
