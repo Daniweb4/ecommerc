@@ -78,9 +78,8 @@
  }
 
 }.container{
-   
-   position: relative;
-   left: 250px;
+   position: absolute;
+   left: 135px;
   
 
 }
