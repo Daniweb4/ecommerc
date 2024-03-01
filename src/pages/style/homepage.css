@@ -14,7 +14,7 @@
 }.by_section{
     position:absolute;
     display: flex;
-    gap: 30px;
+    gap: 20px;
     justify-content: space-around;
     height: 80px;
     padding: 20px 20px;
@@ -28,8 +28,11 @@
   
        
 }.by_name .name{
+
     display: flex;
-    width:400px;
+    max-width: 900px;
+   
+    width:240px;
     height: 40px;
     border-radius: 10px 0px 10px 0px;
 }

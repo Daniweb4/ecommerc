@@ -34,8 +34,6 @@
    border: none;
    outline: none;
    text-align: center;
-   border: 1px solid #39c;
-  
    background-color: rgba(221, 238, 255, 0.501);
 
 }.btn1{
@@ -45,7 +43,7 @@
    -moz-transition: ease-out 0.4s;
    transition: ease-out 0.4s;
    padding: 10px 32px;
-   margin-left: 34px;
+   margin-left: 32px;
    border-radius: 6px;
    background-color: #fff;
    border: none;
@@ -82,7 +80,7 @@
 }.container{
    
    position: relative;
-   left: 280px;
+   left: 250px;
   
 
 }
